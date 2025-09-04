@@ -21,7 +21,7 @@ export type IWalletConnectPeerMeta = SignClientTypes.Metadata;
 
 export type INamespaceUnion =
   | 'eip155'
-  // | 'cosmos'
+  | 'cosmos'
   // | 'solana'
   // | 'polkadot'
   // | 'tron'
